@@ -15,3 +15,10 @@ Before joining the software development program, I completed a **Hospitality cou
 - Communication Skills
 - Teamwork
 
+## Hobbies
+- Listening to Music
+- Reading Books
+- Watching Movies
+- Traveling
+- Spending time with Family
+
