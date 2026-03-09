@@ -6,4 +6,12 @@ Hello! My name is **Manvir Kaur**, and I am currently enrolled in the **Software
 
 Before joining the software development program, I completed a **Hospitality course at MITT College**. This experience helped me develop strong communication, teamwork, and customer service skills. Now, I am combining those skills with my interest in technology to grow in the field of software development.
 
+## Skills
+- Html
+- CSS
+- JavaScript
+- Git and GitHub
+- Problem Solving
+- Communication Skills
+- Teamwork
 
