@@ -22,3 +22,7 @@ Before joining the software development program, I completed a **Hospitality cou
 - Traveling
 - Spending time with Family
 
+## GitHub Statistics
+![Profile Stats](https://github-readme-stats-fast.vercel.app/api?username=manvi1612&show_icons=true&theme=radical)
+![Coding Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=manvi1612&theme=radical)
+![Programming Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manvi1612&layout=compact&theme=radical)
